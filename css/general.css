@@ -70,6 +70,7 @@ Medium: 11px
     /* 1300px */
     max-width: 130rem;
     padding: 0 3.2rem;
+    /* Centers the container */
     margin: 0 auto;
   }
 
